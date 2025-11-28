@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "primo progetto/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "primo progetto/lib/mysql-connector-j-9.5.0.jar"
+    ]
+}

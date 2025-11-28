@@ -1,0 +1,9 @@
+# Ignora i file compilati di Java (i .class) in tutte le cartelle
+**/*.class
+
+# Ignora la cartella bin (dove VS Code mette i file compilati)
+**/bin/
+
+# --- SICUREZZA ---
+# Ignora il file con la password ovunque si trovi
+**/Config.java
